@@ -59,7 +59,9 @@ ul{
 }
 
 .list-title{
+  padding-top: 30px;
   padding-left: 50px;
+  line-height: 2;
 }
 
 .check{
@@ -75,11 +77,69 @@ ul{
   font-size: .5em;
 }
 
+.cross{
+  font-weight: bold;
+  display: inline-block;
+  color: red;
+  border-radius: 50%;
+  border: 1px solid red;
+  height: 20px;
+  width: 20px;
+  text-align: center;
+  line-height: 20px;
+  font-size: .5em;
+}
+
 .editorial{
   display: inline-block;
   padding: 5px;
   border-radius: 13px;
   font-size: 0.2rem;
   background-color: #45ABEA;
+  color: white;
+}
+
+.Q1-Goals{
+  display: inline-block;
+  padding: 5px;
+  border-radius: 13px;
+  font-size: 0.2rem;
+  background-color: #9c72e4;
+  color: white;
+}
+
+.Recruiting{
+  display: inline-block;
+  padding: 5px;
+  border-radius: 13px;
+  font-size: 0.2rem;
+  background-color: #64c0a9;
+  color: white;
+}
+
+.mobile{
+  display: inline-block;
+  padding: 5px;
+  border-radius: 13px;
+  font-size: 0.2rem;
+  background-color: #f29e33;
+  color: white;
+}
+
+.website{
+  display: inline-block;
+  padding: 5px;
+  border-radius: 13px;
+  font-size: 0.2rem;
+  background-color: #d863a1;
+  color: white;
+}
+
+.sales{
+  display: inline-block;
+  padding: 5px;
+  border-radius: 13px;
+  font-size: 0.2rem;
+  background-color: #b0c926;
   color: white;
 }
