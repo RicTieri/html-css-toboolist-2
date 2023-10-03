@@ -91,6 +91,7 @@ ul{
 }
 
 .editorial{
+  line-height: 1.2;
   display: inline-block;
   padding: 5px;
   border-radius: 13px;
@@ -100,6 +101,7 @@ ul{
 }
 
 .Q1-Goals{
+  line-height: 1.2;
   display: inline-block;
   padding: 5px;
   border-radius: 13px;
@@ -109,6 +111,7 @@ ul{
 }
 
 .Recruiting{
+  line-height: 1.2;
   display: inline-block;
   padding: 5px;
   border-radius: 13px;
@@ -118,6 +121,7 @@ ul{
 }
 
 .mobile{
+  line-height: 1.2;
   display: inline-block;
   padding: 5px;
   border-radius: 13px;
@@ -127,6 +131,7 @@ ul{
 }
 
 .website{
+  line-height: 1.2;
   display: inline-block;
   padding: 5px;
   border-radius: 13px;
@@ -136,6 +141,7 @@ ul{
 }
 
 .sales{
+  line-height: 1.2;
   display: inline-block;
   padding: 5px;
   border-radius: 13px;
