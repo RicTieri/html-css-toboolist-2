@@ -24,14 +24,21 @@ h1{
   vertical-align: middle;
 }
 
+hr{
+  color: #f6f8f9;
+  border: solid 2px;
+}
+
+ul{
+  list-style: none;
+}
+
 .container{
   width: 80%;
   margin: 0 auto;
   margin-top: 40px;
   background-color: white;
-}
-
-.container .button{
+  border-radius: 10px;
 }
 
 .blue-button{
@@ -49,4 +56,8 @@ h1{
   background-color: white;
   border: solid 1px #d4d8dc;
   border-radius: 7px;
+}
+
+.list-title{
+  padding-left: 50px;
 }
